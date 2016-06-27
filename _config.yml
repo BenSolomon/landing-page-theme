@@ -13,6 +13,7 @@ description: > # "Write an awesome description for your new site here.
 copyright: 'Copyright &copy; 2015 Ben Solomon. All Rights Reserved.'
 credits: 'Credits: Site theme adapted from "Landing Page," created by <a href="http://startbootstrap.com/">Start Bootstrap</a>
           and modified for Jekyll by <a href="https://github.com/swcool">Shane Weng</a>.</p> '
+exclude: [vendor]
 
 # ----------------------- #
 #    Jekyll & Plugins     #
